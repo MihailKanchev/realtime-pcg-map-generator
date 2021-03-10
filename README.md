@@ -1,3 +1,5 @@
+The project makes use of the assets that come with Unity's tutorial about Roguelikes.
+
 After reverse engineering the level generation in The Binding of Isaac my curiosity for PCG spiked.
 
 
